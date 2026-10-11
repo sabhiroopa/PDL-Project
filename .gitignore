@@ -1,0 +1,31 @@
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+ml_env/
+
+# Local image dataset
+dataset/
+
+# Local image evidence
+images/before/
+images/after/
+images/actions/
+
+# Keep generated model files out initially
+models/*.joblib
+models/*.keras
+models/*.h5
+
+# Secrets and local settings
+.env
+.streamlit/secrets.toml
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

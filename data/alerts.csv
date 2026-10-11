@@ -1,0 +1,3 @@
+Alert ID,Site ID,Alert Date,Alert Type,Severity,Message,Action Required,Status
+ALT0001,PJ001,2026-10-06,High Risk Site,High,High-risk Karuvelam site PJ001 requires immediate field inspection.,Field Inspection Required,Open
+ALT0002,PJ005,2026-10-06,High Risk Site,High,High-risk Karuvelam site PJ005 requires immediate field inspection.,Field Inspection Required,Open

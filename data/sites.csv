@@ -1,0 +1,6 @@
+Site ID,District,Taluk,Village,Latitude,Longitude,Area (ha),Infestation,Risk,Status,Clearance Method,Budget Allocated,Budget Used,Biomass (tonnes),Clearance Date,Officer Name,Clearance Remarks,Before Image,After Image,AI Prediction,AI Confidence,Officer Decision,Verification Remarks
+PJ001,Madurai,Melur,Demo Village 1,10.0324,78.3394,25.5,High,High,Infested,Not Cleared,500000,0,0.0,,,,images/before\PJ001_before.png,images/after\PJ001_after.png,,,,
+PJ002,Ramanathapuram,Ramanathapuram,Demo Village 2,9.3639,78.8395,18.2,High,Medium,Cleared,Mechanical Removal,400000,350000,12.5,,,,,,,,,
+PJ003,Sivagangai,Karaikudi,Demo Village 3,10.0732,78.7808,10.5,Medium,Medium,Cleared,Manual Removal,250000,220000,7.2,,,,,,,,,
+PJ004,Thoothukudi,Tiruchendur,Demo Village 4,8.4973,78.1198,8.2,Low,Low,Cleared,Root Removal,180000,160000,4.1,,,,,,,,,
+PJ005,Tirunelveli,Nanguneri,Demo Village 5,8.7139,77.7567,15.4,High,High,Monitoring,Mechanical Removal,300000,280000,9.8,,,,,,,,,
